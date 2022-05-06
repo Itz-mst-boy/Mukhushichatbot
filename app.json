@@ -1,7 +1,7 @@
 {
     "name": "MukhushiChatBot",
     "description": "Hello, I am Mukhushi An Intelligent ChatBot. If You Are Feeling Lonely, You can Always Come to me and Chat With Me!",
-    "logo": "https://telegra.ph/file/a54ed27b0dc3fc3e439fd.jpg",
+    "logo": "https://telegra.ph/file/3d2fa675f8f049a314572.jpg",
     "repository": "https://github.com/itz-mst-boy/Mukhushichatbot",
     "env": {
         "BOT_TOKEN": {
@@ -9,7 +9,7 @@
             "required": true
         },
         "KUKI_API": {
-            "description": "join @metavoidsupport",
+            "description": "copy paste  and fill it in blanks (5142140533-KUKISK5Cqd5mX6)",
             "required": true
         },
         "ERROR_LOG": {
